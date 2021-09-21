@@ -1,0 +1,14 @@
+th{
+    color: blueviolet;
+}
+
+td{
+    color: navy;
+}
+th{
+    background-color:plum;
+}
+
+table{
+    border-collapse: collapse;
+}
